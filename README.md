@@ -22,7 +22,8 @@
   </a>
   <a href="https://purify-demo.herokuapp.com">
     <img src="https://heroku-badge.herokuapp.com/?app=purify-demo&style=flat&svg=1">
-  </a> -->
+  </a> <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fzorianix%2Fpurify?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzorianix%2Fpurify.svg?type=shield"/></a>
+-->
   <a href="https://codeclimate.com/github/faloker/purify/maintainability">
      <img src="https://api.codeclimate.com/v1/badges/e92c8f0912d7d6ec1b65/maintainability" />
   </a>
@@ -33,6 +34,9 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/faloker/purify">
   </a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzorianix%2Fpurify.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzorianix%2Fpurify?ref=badge_large)
 
 ## Why
 
@@ -57,4 +61,3 @@ https://faloker.gitbook.io/purify
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
